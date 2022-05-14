@@ -1,0 +1,10 @@
+table {
+    display: block;
+    justify-content: center;
+    border: 1px solid gray;
+  }
+  
+  td {
+    border: 1px solid gray;
+    width: 30em;
+  }
